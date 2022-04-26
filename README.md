@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @EdmundDong
-- 👀 I’m interested in solving problems.
-- 🌱 I’m currently learning Computer Vision.
-- 💞️ I’m looking to collaborate on cool ideas.
-<!---
-- 📫 How to reach me 
---->
-<!---
-EdmundDong/EdmundDong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m Edmund Dong
+
+### I'm a Computer Science MS student at Arizona State University (Graduating in December 2022)
+
+#### [LinkedIn](https://www.linkedin.com/in/edmunddong/) | [Resume](https://drive.google.com/file/d/13e2Vdr7wqwIxYWrdCoM8ZOL7lF71KG6h/view) | [Personal Website](https://eedong.dev/)
+
+- 👀 I’m interested in solving problems
+- 🌱 I’m currently learning Computer Vision
+- 💞️ I’m looking to collaborate on cool ideas
